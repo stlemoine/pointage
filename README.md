@@ -1,4 +1,4 @@
-Déclare Nounou
+Test pointage
 ========================
 
 [![Build Status](https://travis-ci.org/remymandit/DeclareNounou.png?branch=master)](https://travis-ci.org/remymandit/DeclareNounou)
